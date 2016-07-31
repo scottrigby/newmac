@@ -1,0 +1,14 @@
+---
+- hosts: localhost
+
+  vars_files:
+    - vars/main.yml
+
+  roles:
+    - geerlingguy.homebrew
+
+  tasks:
+    - name: Install vagrant-hostsupdater for drupal-vm.
+      shell: vagrant plugin install vagrant-hostsupdater
+      changed_when: false
+
