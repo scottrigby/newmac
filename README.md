@@ -14,3 +14,5 @@
     ansible-galaxy install -r requirements.yml --roles-path=roles
     ansible-playbook main.yml -u scottrigby -U scottrigby --ask-sudo-pass`
     ```
+
+3. Install dotfiles separately with homeshick.
