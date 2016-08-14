@@ -27,6 +27,7 @@ homebrew_cask_apps:
   - lastpass
   - licecap
   - phpstorm
+  - private-internet-access
   - slack
   - skype
   - spotify
