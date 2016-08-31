@@ -21,21 +21,29 @@ homebrew_taps:
 
 homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
+  # Backup.
   - arq
-  - doitim
-  - joinme
-  - lastpass
-  - licecap
-  - phpstorm
-  - private-internet-access
-  - slack
-  - skype
-  - spotify
-  - spectacle
-  - vagrant
-  - vlc
-  - virtualbox
   # Browsers.
   - brave
   - google-chrome
   - opera
+  # Communication.
+  - joinme
+  - messenger
+  - slack
+  - skype
+  # Development.
+  - phpstorm
+  - vagrant
+  - virtualbox
+  # Documentation.
+  - licecap
+  # Media.
+  - spotify
+  - vlc
+  # Productivity.
+  - doitim
+  - spectacle
+  # Security.
+  - lastpass
+  - private-internet-access
