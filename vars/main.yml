@@ -35,6 +35,7 @@ homebrew_cask_apps:
   - skype
   # Development.
   - phpstorm
+  - textwrangler
   - vagrant
   - virtualbox
   # Documentation.
