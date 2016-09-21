@@ -30,6 +30,7 @@ homebrew_cask_apps:
   # Communication.
   - joinme
   - messenger
+  - screenhero
   - slack
   - skype
   # Development.
