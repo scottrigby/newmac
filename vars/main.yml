@@ -29,13 +29,16 @@ homebrew_cask_apps:
   - opera
   # Communication.
   - joinme
+  - gitter
+  - irccloud
   - messenger
   - screenhero
   - slack
   - skype
   # Development.
+  - atom
+  - bbedit
   - phpstorm
-  - textwrangler
   - vagrant
   - virtualbox
   # Documentation.
