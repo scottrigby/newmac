@@ -45,6 +45,8 @@ homebrew_cask_apps:
   - virtualbox
   # Documentation.
   - licecap
+  # Sadly, monosnap doesn't have a brew cask: https://twitter.com/jitendravyas/status/527015510349582336
+  #- monosnap
   # Media.
   - spotify
   - vlc
