@@ -35,6 +35,8 @@ homebrew_cask_apps:
   - screenhero
   - slack
   - skype
+  # Design
+  - figma
   # Development.
   - atom
   - bbedit
