@@ -28,6 +28,7 @@ homebrew_cask_apps:
   - google-chrome
   - opera
   # Communication.
+  - blue-jeans-launcher # Note the Blue Jeans.app requires opening the launcher app manually in the brew cask dir.
   - joinme
   - gitter
   - irccloud
