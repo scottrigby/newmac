@@ -10,6 +10,7 @@ homebrew_installed_packages:
   - wget
   - brew-cask
   - homebrew/php/terminus
+  - tree
 
 # May not need all of these.
 homebrew_taps:
