@@ -8,12 +8,12 @@ homebrew_installed_packages:
   - hub
   - drush
   - wget
-  - brew-cask
   - homebrew/php/terminus
   - tree
 
 # May not need all of these.
 homebrew_taps:
+  - homebrew/core
   - caskroom/cask
   - homebrew/binary
   - homebrew/dupes
